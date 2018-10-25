@@ -29,5 +29,5 @@ function hideHeader() {
 // }
 
 const spinInterval = setInterval(spin, 5);
-const moveSpinnerInterval = setInterval(moveSpinner, 10);
+// const moveSpinnerInterval = setInterval(moveSpinner, 10);
 const headerTimeout = setTimeout(hideHeader, 3000);
